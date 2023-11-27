@@ -1,0 +1,7 @@
+export { default as BG } from './bg.svg'
+export { default as NOTFOUND } from './pagenotefound.svg'
+export { default as OR } from './or.svg'
+export { default as USER } from './man-user.svg'
+export { default as ZVANOK } from './zvanok.svg'
+export { default as LUPA } from './lupa.svg'
+export { default as ICONSLOGO } from './iconsLogo.svg'
