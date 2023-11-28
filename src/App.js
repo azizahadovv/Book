@@ -15,7 +15,7 @@ function App(props) {
         <Route path="/sign-up" element={<SignUp />} />
         <Route path="/" element={<SignIn />} />
         <Route path="/dashboard" element={<Dashboard />} />
-        <Route path="/404" element={<PageNoteFound />} />
+        <Route path="*" element={<PageNoteFound />} />
       </Routes>
     </div>
   );
